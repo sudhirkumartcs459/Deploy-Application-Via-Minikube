@@ -7,7 +7,7 @@ Note - Kubectl is the Command line Interface that is used to manage the Kubernet
 
 Once you have Install the Kubectl tool on your machine you can verify it by using the command # kubectl verison 
 
-Now proceed to install the local [Minikube](https://minikube.sigs.k8s.io/docs/start/) kuburnetes cluster.
+ 2.Now proceed to install the local [Minikube](https://minikube.sigs.k8s.io/docs/start/) kuburnetes cluster.
 
 
 
