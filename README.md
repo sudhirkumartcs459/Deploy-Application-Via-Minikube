@@ -28,4 +28,6 @@ create the application using the command and it will created as per code in the 
 Now you can verify the Kubernetes pod using the command line # kubectl get pods
 
 
+How to get the complete detail of the Pod using the command # kubectl get pods -o wide 
+
 
