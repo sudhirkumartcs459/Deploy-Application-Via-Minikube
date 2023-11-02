@@ -9,6 +9,9 @@ Once you have Install the Kubectl tool on your machine you can verify it by usin
 
  2.Now proceed to install the local [Minikube](https://minikube.sigs.k8s.io/docs/start/) kuburnetes cluster.
 
+After Installation of the Minikube you can procced to verify the Minikube using the command # minikube 
+
+After Installation of the Minikube we are going to create the Kubernetes cluster using the Minikube Instructions are given below:
 
 
 
