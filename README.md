@@ -20,7 +20,7 @@ After Installation of the Minikube we are going to create the Kubernetes cluster
 Now after installation of the Minikube on the system we can verify the Minikube control plane # minikube get nodes 
                                                                                               
 
-After Installation Minikube Node we have to install the Minikube Pode on the system follow the [link](https://kubernetes.io/docs/concepts/workloads/pods/)
+After Installation Minikube Node we have to install the Minikube Pod on the system follow the [link](https://kubernetes.io/docs/concepts/workloads/pods/)
 
 
 
