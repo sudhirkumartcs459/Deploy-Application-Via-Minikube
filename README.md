@@ -14,6 +14,9 @@ After Installation of the Minikube you can procced to verify the Minikube using 
 After Installation of the Minikube we are going to create the Kubernetes cluster using the Minikube Instructions are given below:
 
 
+# minikube start --memory=2200 --driver=docker             Note- Docker should be present in the system 
+
+
 
 
 
