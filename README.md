@@ -34,3 +34,6 @@ How to get the complete detail of the Pod using the command # kubectl get pods -
 How to take SSH of the Minikube # minikube ssh 
 
 
+And now you can verify the application# curl $ IP of the Pod 
+
+
