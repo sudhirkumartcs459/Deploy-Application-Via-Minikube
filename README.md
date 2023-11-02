@@ -36,4 +36,8 @@ How to take SSH of the Minikube # minikube ssh
 
 And now you can verify the application# curl $ IP of the Pod 
 
+How to check the logs of the application running inside pods # kubectl logs nginx        Note- ngninx is the name of the pod
+
+
+
 
