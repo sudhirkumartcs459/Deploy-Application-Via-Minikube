@@ -31,3 +31,6 @@ Now you can verify the Kubernetes pod using the command line # kubectl get pods
 How to get the complete detail of the Pod using the command # kubectl get pods -o wide 
 
 
+How to take SSH of the Minikube # minikube ssh 
+
+
