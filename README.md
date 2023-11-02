@@ -25,4 +25,7 @@ After Installation Minikube Node, we have to install the Minikube Pod on the sys
 create the application using the command and it will created as per code in the Pod YAML Configuration file # kubectl create -f pod.yml
 
 
+Now you can verify the Kubernetes pod using the command line # kubectl get pods
+
+
 
